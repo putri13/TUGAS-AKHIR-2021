@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "756713476770",
+    "project_id": "posyandu11-6bc1c",
+    "storage_bucket": "posyandu11-6bc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756713476770:android:d52673773ff15f4f7cbdfb",
+        "android_client_info": {
+          "package_name": "com.example.posyandu11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "756713476770-nouqbi5rg87gdjftpipp79442mnm8n5p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjrCvcUSvcVekpMJ0bngPT87B2T8CHIdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "756713476770-nouqbi5rg87gdjftpipp79442mnm8n5p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
